@@ -1,0 +1,11 @@
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\My_Stuff\Netcore\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
