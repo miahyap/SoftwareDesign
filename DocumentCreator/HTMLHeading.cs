@@ -22,17 +22,18 @@ namespace DocumentCreator
                 level = 6;
         }
 
-       
+
         // headings in HTML are denoted by "<hN>...</hN>" where N is the level of the header
         public string GetString()
         {
             //Write code here: Look at the GetString() method of HTMLParagraph
+            return "<h1>\n" + text + "\n</h1>\n\n";
         }
 
         // get the level of the header
         public int GetLevel()
         {
             return level;
-        }       
+        }
     }
 }

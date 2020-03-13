@@ -10,14 +10,14 @@ namespace DocumentCreator
         private string title = "";
 
         // the elements making up the body of the document
-       
+
         private IList<IHTMLElement> body = new List<IHTMLElement>();
 
 
         // constructor
         public HTMLDocument()
         {
-           
+
         }
 
 
@@ -26,7 +26,7 @@ namespace DocumentCreator
         {
             body.Add(elementIn);
         }
-               
+
         // get a string representing the document
         public string GetString()
         {
@@ -58,7 +58,11 @@ namespace DocumentCreator
 
 
         // Write code here: set the title of the document
-        
+        public void SetTitle(String title)
+        {
+            this.title = title;
+        }
+
 
     }
 }

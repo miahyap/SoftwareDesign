@@ -6,7 +6,7 @@ namespace FactoryExampleApp
 {
     interface IProduct
     {
-        public String getProductType();
-        public int getCost();
+        String getProductType();
+        int getCost();
     }
 }
