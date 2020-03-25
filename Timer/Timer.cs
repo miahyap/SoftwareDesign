@@ -5,7 +5,7 @@
 //
 namespace Timer
 {
-    class Timer
+    class Timer : AbstractNotifier
     {
         // repeatedly wait one second, exiting after numberOfTicks iterations
         public void Run(int numberOfTicks)
@@ -16,7 +16,12 @@ namespace Timer
                 System.Console.WriteLine("Sleeping...");
                 numberOfTicks--;
             }
-            System.Console.ReadLine();
+
+            // Notify all listeners
+            {
+              Notify();
+              System.Console.ReadLine();
+            }
         }
     }
 }

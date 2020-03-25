@@ -14,12 +14,12 @@ namespace TwoDArray
         static void Main(string[] args)
         {
             // create and fill a 2 x 3 array of integers
-            ITwoDArray<int> array = new TwoDArrayGeneric<int>(2, 3);
-            array.Set(0, 0, 9); array.Set(0, 1, 4); array.Set(0, 2, 1);
-            array.Set(1, 0, 2); array.Set(1, 1, 5); array.Set(1, 2, 3);
+            ITwoDArray<String> array = new TwoDArrayGeneric<String>(2, 3);
+            array.Set(0, 0, "Sarah"); array.Set(0, 1, null); array.Set(0, 2, "Yixin");
+            array.Set(1, 0, null); array.Set(1, 1, null); array.Set(1, 2, "Faizal");
 
             // display the array in row major order
-            ITwoDIterator<int> iter = array.CreateRowMajorIterator();
+            ITwoDIterator<String> iter = array.CreateRowMajorIterator();
             while (!iter.IsDone())
             {
                 Console.Write(iter.Current() + " ");

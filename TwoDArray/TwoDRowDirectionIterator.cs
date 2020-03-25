@@ -7,7 +7,7 @@
 //
 namespace TwoDArray
 {
-    class TwoDRowMajorIteratorGeneric<T> : ITwoDIterator<T>
+    class TwoDRowDirectionIterator<T> : ITwoDIterator<T>
     {
         // the collection being iterated through
         TwoDArrayGeneric<T> collection;
@@ -16,7 +16,7 @@ namespace TwoDArray
         private int i, j;
 
         // constructor
-        public TwoDRowMajorIteratorGeneric(TwoDArrayGeneric<T> collectionIn)
+        public TwoDRowDirectionIterator(TwoDArrayGeneric<T> collectionIn)
         {
             collection = collectionIn;
             i = 0;
@@ -32,13 +32,21 @@ namespace TwoDArray
         // move to the next element of the iteration
         public void Next()
         {
-            j++;
-            if (j >= collection.Columns())
-            {
-                j = 0;
-                i++;
+            if (i % 2 == 0) {
+              j++;
+              if (j >= collection.Columns())
+              {
+                  i++;
+              }
             }
-            
+            else if (i % 2 != 0) {
+              j--;
+              if (j == 0)
+              {
+                  i++;
+              }
+            }
+
             // skip nulls
             if (!IsDone() && collection.Get(i, j) == null) {
               Next();
