@@ -1,0 +1,10 @@
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\bin\Debug\netcoreapp2.0\VendingMachineSwitch.deps.json
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\bin\Debug\netcoreapp2.0\VendingMachineSwitch.runtimeconfig.json
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\bin\Debug\netcoreapp2.0\VendingMachineSwitch.runtimeconfig.dev.json
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\bin\Debug\netcoreapp2.0\VendingMachineSwitch.dll
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\bin\Debug\netcoreapp2.0\VendingMachineSwitch.pdb
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\obj\Debug\netcoreapp2.0\VendingMachineSwitch.csprojAssemblyReference.cache
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\obj\Debug\netcoreapp2.0\VendingMachineSwitch.AssemblyInfoInputs.cache
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\obj\Debug\netcoreapp2.0\VendingMachineSwitch.AssemblyInfo.cs
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\obj\Debug\netcoreapp2.0\VendingMachineSwitch.dll
+C:\Users\A101530\Documents\SIT Teaching\AY 2019-20\Software Design January 2020\Past_Files\Bkup_ClonedProfNicholas\ICT2106-master\VendingMachineSwitch\obj\Debug\netcoreapp2.0\VendingMachineSwitch.pdb
