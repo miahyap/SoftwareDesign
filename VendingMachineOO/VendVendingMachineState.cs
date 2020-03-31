@@ -27,7 +27,7 @@ namespace ICT2106.VendingMachineOO
             VM.Amount -= cost;
 
             // move to the next state
-            if (VM.Amount > 0.0M)
+            if (VM.Amount > 0.0M && VM.ChangeAvailable >= 1.0M && VM.ChangeAvailable > VM.Amount)
             {
                 // need to give change
                 VM.EnterState(new MakeChangeVendingMachineState(VM));

@@ -17,11 +17,15 @@ namespace ICT2106.VendingMachineOO
         // the amount of money inserted by the user
         public decimal Amount { get; set; }
 
+        // the amount of change available in the machine
+        public decimal ChangeAvailable { get; set; }
+
         // constructor
         public VendingMachine()
         {
             // start in the idle state with no money inserted
             CurrentState = new IdleVendingMachineState(this);
+            ChangeAvailable = 10.0M;
         }
 
         // display a message

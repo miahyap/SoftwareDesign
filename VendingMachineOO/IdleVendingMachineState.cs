@@ -20,6 +20,11 @@ namespace ICT2106.VendingMachineOO
         {
             // display the greeting
             VM.Display("Welcome to the ICT2106 vending machine!");
+
+            // display message if exact change only
+            if (VM.ChangeAvailable < 1.0M) {
+              VM.Display("exact change only");
+            }
         }
 
         // insert money handler
